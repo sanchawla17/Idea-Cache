@@ -1,6 +1,6 @@
 <h1 align="center">📝 Idea Cache ✨</h1>
 
-<img src="../frontend/public/Ideacache.png" alt="Idea Cache Screenshot" width="800"/>
+<img src="frontend\public\Ideacache.png" alt="Idea Cache Screenshot" width="800"/>
 
 Highlights:
 
