@@ -1,12 +1,13 @@
 <h1 align="center">📝 Idea Cache ✨</h1>
 
+<img src="../frontend/public/Ideacache.png" alt="Idea Cache Screenshot" width="800"/>
+
 Highlights:
 
 -  Full-Stack Notes taking App Built with the MERN Stack (MongoDB, Express, React, Node)
 -  Create, Update, and Delete Notes with Title & Description
 -  Rate Limiting with Upstash Redis 
 -  Completely Responsive UI
--  Deployment on Vercel
 
 
 ---
